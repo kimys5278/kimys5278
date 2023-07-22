@@ -1,3 +1,5 @@
+<div>
+  
 ![header](https://capsule-render.vercel.app/api?type=cylinder&color=000000&height=150&section=header&text=Kim_Yu_Seong&fontColor=ffffff&fontSize=70&animation=fadeIn&fontAlignY=55)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kimys5278&layout=compact&theme=tokyonight)
@@ -27,6 +29,9 @@
 <img src="https://img.shields.io/badge/Eclipse-2C2255?style=for-the-badge&logo=Eclipse%20IDE&logoColor=white">
 
 <img src="https://img.shields.io/badge/intellijidea-000000?style=for-the-badge&logo=intellijidea&logoColor=white">
+</br>
+</br>
+</div>
 <!--
 **kimys5278/kimys5278** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
