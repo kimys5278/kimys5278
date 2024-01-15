@@ -1,9 +1,9 @@
 <h1 align="center">Yu-Seong-Kim</h1>
 <h3 align="center">A passionate backend developer from Korea</h3>
 
-- 👨‍🦲 My Notion [All of my projects are available at [https://handmk.notion.site/Son-Min-Key-435f3bae425c4a9191b648e272c8cbc0?pvs=4](https://handmk.notion.site/Son-Min-Key-435f3bae425c4a9191b648e272c8cbc0?pvs=4)](https://www.notion.so/KimYuSeong-52893c13fbd44bad81a3fa372b564279)
+- 👨‍🦲 My Notion [All of my projects are available at (https://www.notion.so/KimYuSeong-52893c13fbd44bad81a3fa372b564279)
 
-- 📄 My Velog [[https://velog.io/@handmk](https://velog.io/@handmk)](https://velog.io/@nays33/posts)
+- 📄 My Velog (https://velog.io/@nays33)](https://velog.io/@nays33/posts)
 
 - 📧 Email **Kimys5278@gmail.com**
 
