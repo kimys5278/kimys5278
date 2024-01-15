@@ -3,7 +3,7 @@
 
 - 👨‍🦲 My Notion [All of my projects are available at (https://www.notion.so/KimYuSeong-52893c13fbd44bad81a3fa372b564279)
 
-- 📄 My Velog (https://velog.io/@nays33)](https://velog.io/@nays33/posts)
+- 📄 My Velog [(https://velog.io/@nays33)](https://velog.io/@nays33/posts)
 
 - 📧 Email **Kimys5278@gmail.com**
 
