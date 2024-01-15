@@ -1,3 +1,14 @@
+<h1 align="center">Yu-Seong-Kim</h1>
+<h3 align="center">A passionate backend developer from Korea</h3>
+
+- 👨‍🦲 My Notion [All of my projects are available at [https://handmk.notion.site/Son-Min-Key-435f3bae425c4a9191b648e272c8cbc0?pvs=4](https://handmk.notion.site/Son-Min-Key-435f3bae425c4a9191b648e272c8cbc0?pvs=4)](https://www.notion.so/KimYuSeong-52893c13fbd44bad81a3fa372b564279)
+
+- 📄 My Velog [[https://velog.io/@handmk](https://velog.io/@handmk)](https://velog.io/@nays33/posts)
+
+- 📧 Email **Kimys5278@gmail.com**
+
+</p>
+
 <div>
   
 ![header](https://capsule-render.vercel.app/api?type=cylinder&color=000000&height=150&section=header&text=Kim_Yu_Seong&fontColor=ffffff&fontSize=70&animation=fadeIn&fontAlignY=55)
