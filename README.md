@@ -1,5 +1,4 @@
 <h1 align="center">Yu-Seong-Kim</h1>
-<h3 align="center">A passionate backend developer from Korea</h3>
 
 - 👨‍🦲 My Notion [All of my projects are available at (https://www.notion.so/KimYuSeong-52893c13fbd44bad81a3fa372b564279)
 
