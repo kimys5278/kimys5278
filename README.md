@@ -14,8 +14,6 @@
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kimys5278&layout=compact&theme=tokyonight)
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=kimys5278&" alt="kimys5278" /></p>
-
 <img src="https://img.shields.io/badge/JAVA-007396?style=for-the-badge&logo=java&logoColor=white">
 
 <img src="https://img.shields.io/badge/python-3776AB?style=for-the-badge&logo=python&logoColor=white">
