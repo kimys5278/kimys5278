@@ -1,5 +1,4 @@
-<h1 align="center">Yu-Seong-Kim</h1>
-
+![header](https://capsule-render.vercel.app/api?type=cylinder&color=000000&height=150&section=header&text=Kim-Yu-Seong&fontColor=ffffff&fontSize=70&animation=fadeIn&fontAlignY=55)
 - 👨‍🦲 My Notion [All of my projects are available at (https://www.notion.so/KimYuSeong-52893c13fbd44bad81a3fa372b564279)
 
 - 📄 My Velog [(https://velog.io/@nays33)](https://velog.io/@nays33/posts)
@@ -8,8 +7,13 @@
 
 </p>
 
+<div align ="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kimys5278&layout=compact&theme=tokyonight" alt="Top Languages" />
+
+  
+</div>
+
 <div>
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kimys5278&layout=compact&theme=tokyonight)
 
 <img src="https://img.shields.io/badge/JAVA-007396?style=for-the-badge&logo=java&logoColor=white">
 
