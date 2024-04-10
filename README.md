@@ -9,8 +9,8 @@
 </p>
 
 <div>
-  
-![header](https://capsule-render.vercel.app/api?type=cylinder&color=000000&height=150&section=header&text=Kim_Yu_Seong&fontColor=ffffff&fontSize=70&animation=fadeIn&fontAlignY=55)
+[![kim-yu-seong GitHub stats](https://github-readme-stats.vercel.app/api?username=kimys5278)](https://github.com/kimys5278/github-readme-stats)
+
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kimys5278&layout=compact&theme=tokyonight)
 
