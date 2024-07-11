@@ -1,5 +1,5 @@
 ![header](https://capsule-render.vercel.app/api?type=cylinder&color=000000&height=150&section=header&text=Kim-Yu-Seong&fontColor=ffffff&fontSize=70&animation=fadeIn&fontAlignY=55)
-- 👨‍🦲 My Notion [All of my projects are available at (https://www.notion.so/KimYuSeong-52893c13fbd44bad81a3fa372b564279)
+- 👨‍🦲 My Notion! [All of my projects are available at (https://www.notion.so/KimYuSeong-52893c13fbd44bad81a3fa372b564279)
 
 - 📄 My Velog [(https://velog.io/@nays33)](https://velog.io/@nays33/posts)
 
