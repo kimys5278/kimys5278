@@ -10,6 +10,7 @@
 <div align ="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kimys5278&layout=compact&theme=tokyonight" alt="Top Languages" />
 
+![Kimys5278 github stats](https://github-readme-stats.vercel.app/api?username=kimys5278)
   
 </div>
 
