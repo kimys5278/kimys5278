@@ -4,7 +4,7 @@
 - 📄 My Velog! [(https://velog.io/@nays33)](https://velog.io/@nays33/posts)
 
 - 📧 Email! **Kimys5278@gmail.com**
-github-readme-stats.vercel.app/api?username=kimys5278&show_icons=true&theme=dark
+  
 
 </p>
 
