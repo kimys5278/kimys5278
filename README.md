@@ -5,7 +5,7 @@
 
 - 📧 Email! **Kimys5278@gmail.com**
   
-
+[![kimys5278's GitHub stats](https://github-readme-stats.vercel.app/api?username=kimys5278)]
 </p>
 
 <div align ="center">
