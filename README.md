@@ -10,7 +10,7 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kimys5278&layout=compact&theme=tokyonight" alt="Top Languages" />
 
 </div>
-<h3> 🤚 안녕하십니까.  새로운 경험을 좋아하는 JAVA 개발자 김유성 입니다.💡<h3>
+<h3> 🤚 개발자 김유성 입니다.💡<h3>
 <div src = "https://flossy-gallon-c27.notion.site/Backend-Developer-cecf554ac2724fff9f913e09144e7ee6"> 
 </div>
 <div>
