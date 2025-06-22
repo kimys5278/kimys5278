@@ -42,5 +42,42 @@
 <img src="https://img.shields.io/badge/intellijidea-000000?style=for-the-badge&logo=intellijidea&logoColor=white">
 </br>
 </br>
+---
+
+### 🏆 Awards & Honors
+
+<small>
+
+- 🥇 **Best Project Award (1st Place)** — 2024  
+  _Software Graduation Exhibition, University_
+
+- 🥈 **Excellence Award (2nd Place)** — 2024  
+  _University Software Academic Festival_
+
+- 🥈 **Outstanding Award (2nd Place)** — 2024  
+  _IMSCC International Mathematical & Scientific Creativity Contest_
+
+- 🥇 **Grand Prize (1st Place)** — 2023  
+  _Gangnam Best Engineer Award_
+
+- 🥇 **Grand Prize (1st Place)** — 2022  
+  _Gangnam Best Engineer Award_
+
+- 🥇 **Top Academic Excellence Award (1st Place)** — 2022, 2nd Semester  
+  _Ranked 1st in Class, University_
+
+- 🥇 **Best Award (1st Place)** — 2022  
+  _Data Science Idea Symposium_
+
+- 🥈 **Excellence Award (2nd Place)** — 2022, 1st Semester  
+  _Ranked 2nd in Class, University_
+
+- 🥉 **Outstanding Award (3rd Place)** — 2019  
+  _Industrial Data Science Idea Symposium_
+
+</small>
+
+---
+
 
 
