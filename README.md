@@ -48,32 +48,23 @@
 
 <small>
 
-- 🏅 **First Place Award** — 2024  
-  _Software Capstone Design, University_
+- 🏅 2024 교내 소프트웨어 캡스톤 디자인 대상 (1위)
 
-- 🥈 **Second Place Award** — 2024  
-  _University Software Academic Festival_
+- 🥈 2024 교내 소프트웨어 학술제 우수상(2위)
 
-- 🥈 **Second Place Award** — 2024  
-  _IMSCC International Mathematical & Scientific Creativity Contest_
+- 🥈 2024 IMSCC 국제 수리 창의력 대회 - 우수상(2위)
 
-- 🏅 **First Place Award** — 2023  
-  _Gangnam Best Engineer Award_
+- 🏅 2023 강남 베스트 엔지니어 - 대상(1위)
 
-- 🏅 **First Place Award** — 2022  
-  _Gangnam Best Engineer Award_
+- 🏅 2022 강남 베스트 엔지니어 - 대상(1위)
 
-- 🏅 **First Place Award** — 2022, 2nd Semester  
-  _Top of Class, University_
+- 🏅 2022년 2학기 학년 수석 1등 - 최우수상(1위)
 
-- 🏅 **First Place Award** — 2022  
-  _Data Science Idea Symposium_
+- 🥈 2022 데이터 사이언스 아이디어 학술제 - 최우수상(2위)
 
-- 🥈 **Second Place Award** — 2022, 1st Semester  
-  _2nd in Class, University_
+- 🥈 2022년 1학기 학년 우수 2등 - 우수상(2위)
 
-- 🥉 **Third Place Award** — 2019  
-  _Industrial Data Science Idea Symposium_
+- 🥉 2019 산업 데이터 사이언스 아이디어 학술제 - 우수상(3위)
 
 </small>
 
