@@ -1,5 +1,5 @@
 ![header](https://capsule-render.vercel.app/api?type=cylinder&color=000000&height=150&section=header&text=Kim-Yu-Seong&fontColor=ffffff&fontSize=70&animation=fadeIn&fontAlignY=55)
-<h3> 🤚 개발자 김유성 입니다.💡<h3>
+
 - 👨‍🦲 My Resume! [All of my profile and projects are available at NotionResume](https://flossy-gallon-c27.notion.site/Backend-Developer-cecf554ac2724fff9f913e09144e7ee6)
 
 - 📄 My Velog! [(https://velog.io/@nays33)](https://velog.io/@nays33/posts)
