@@ -5,6 +5,11 @@
 - 📄 My Velog! [(https://velog.io/@nays33)](https://velog.io/@nays33/posts)
 
 - 📧 Email! **Kimys5278@gmail.com**
+---
+
+<h3 align = "justify">💪개발자 김유성입니다.💪</h3>
+
+
 </br>
 </br>
 <p align="justify">
@@ -19,7 +24,6 @@
 <div src = "https://flossy-gallon-c27.notion.site/Backend-Developer-cecf554ac2724fff9f913e09144e7ee6"> 
 </div>
 
-</br>
 </br>
 
 <div>
