@@ -6,10 +6,16 @@
 - 📧 Email! **Kimys5278@gmail.com**
 </p>
 
-<div align ="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kimys5278&layout=compact&theme=tokyonight" alt="Top Languages" />
+<p align="justify">
+  <a href="https://github.com/kimys5278" style="display:inline-block;">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kimys5278&layout=compact&show_icons=true&show_owner=true&hide_title=true&theme=tokyonight" />
+  </a>
+  <a href="https://github.com/kimys5278" style="display:inline-block; margin-left: 20px;">
+    <img src="https://github-readme-stats.vercel.app/api?username=kimys5278&hide_title=false&show_icons=true&include_all_commits=false&theme=tokyonight" />
+  </a>
+</p>
 
-</div>
+
 <h3> 🤚 개발자 김유성 입니다.💡<h3>
 <div src = "https://flossy-gallon-c27.notion.site/Backend-Developer-cecf554ac2724fff9f913e09144e7ee6"> 
 </div>
@@ -41,8 +47,6 @@
 
 <img src="https://img.shields.io/badge/intellijidea-000000?style=for-the-badge&logo=intellijidea&logoColor=white">
 </br>
-</br>
----
 
 ### 🏆 Awards & Honors
 
